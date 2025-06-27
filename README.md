@@ -1,98 +1,89 @@
-<!-- Banner GIF -->
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" alt="Banner"/>
+<!-- Banner -->
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" alt="Banner" />
 
-# Hi 👋🏻, I'm Faheem Rahman
+# 👋 Hello! I'm Faheem Rahman
 
-🎓 A passionate Computer Science & Engineering student at [Your College Name]  
-🌐 Focused on AI, Web Development, and making tech more human-friendly.  
-🔬 Always learning, building, failing fast, and trying again.  
-
----
-
-### 📈 Profile Overview  
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
-
-| 🔥 Stats             | 🧩 Roles               | 🚀 Projects              |  
-|----------------------|------------------------|--------------------------|  
-| `📚 10+` repos       | `👨‍💻 Developer`        | `💡 AI Detection Bot`    |  
-| `⭐ GitHub Starred`   | `📢 Presenter`          | `📈 Workforce Tracker`   |  
-| `🎯 Hackathon Finalist`| `🛠 Builder`            | `🔬 Anti-Sleep Glasses`  |
+🎓 CSE Student | 💻 Tech Explorer | 🧠 AI & Web Dev Enthusiast  
+Passionate about solving real-world problems through code, automation, and creativity. Whether it's smart factories, pothole-fixing rovers, or AI bots — I'm building it.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚧 Projects I'm Actively Working On
 
-- 👨‍🏭 **Nokia Workforce Management System**  
-  → Shift scheduling + attendance + AI chatbot  
-  → [GitHub Repo](https://github.com/your-github-username/nokia-workforce)
-
-- 🛰️ **Pothole Detection & Rover Filling System**  
-  → With GPS + microcontroller (ESP82)  
-  → [GitHub Repo](https://github.com/your-github-username/pothole-rover)
+### 🏭 Workforce Manager  
+A complete **shift scheduling, attendance tracking, and performance dashboard** system built for Nokia factory workers using HTML, CSS, JS, and AI-integrated components.  
+🔗 [View Project](#)
 
 ---
 
-## 🌱 Currently Learning
-
-- 💻 **React, Tailwind CSS, JavaScript**
-- 🤖 **YOLOv3, OpenCV, Real-time object tracking**
-- 🎨 **Figma, UI/UX Design**
+### 🌸 Iris Flower Classification  
+A beginner-friendly machine learning project using the **Iris dataset** to classify flowers into Setosa, Versicolor, or Virginica. Built using **Python, pandas, scikit-learn**, and visualized using Matplotlib & Seaborn.  
+🔗 [View Project](https://github.com/Faheem07x/Iris-Flower-Classification)
 
 ---
 
-## 💬 Ask Me About
-
-- Frontend Development (HTML, CSS, JS, React)
-- AI + Computer Vision (YOLO, OpenCV)
-- Microcontrollers & embedded projects (ESP32, Arduino)
-- Organizing college-level tech workshops
+### 🧠 Face Recognition Attendance System  
+A **Python-based real-time face detection** attendance system with a GUI built using **Tkinter**. Uses **OpenCV** for facial recognition and records attendance into a CSV file.  
+🔗 [View Project](https://github.com/Faheem07x/Face-Recognition-Attendance-System)
 
 ---
 
-## 📫 Let's Connect
+## 🧑‍💻 Languages I Know
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faheem-link/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faheemhandle/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faheemrahman.dev@gmail.com)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" title="React.js"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+</p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧰 Tools & Frameworks I Use
 
-<img src="https://img.icons8.com/color/48/html-5--v1.png"/> 
-<img src="https://img.icons8.com/color/48/css3.png"/> 
-<img src="https://img.icons8.com/color/48/javascript--v1.png"/> 
-<img src="https://img.icons8.com/color/48/react-native.png"/> 
-<img src="https://img.icons8.com/color/48/python--v1.png"/> 
-<img src="https://img.icons8.com/color/48/c-programming.png"/> 
-<img src="https://img.icons8.com/color/48/figma--v1.png"/> 
-<img src="https://img.icons8.com/color/48/adobe-xd--v1.png"/> 
-<img src="https://img.icons8.com/color/48/firebase.png"/> 
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+  <img src="https://img.icons8.com/color/48/figma--v1.png" title="Figma"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
+  <img src="https://img.icons8.com/color/48/github.png" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/opencv.png" title="OpenCV"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/arduino.png" alt="arduino"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Faheem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Faheem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ---
 
-## 🔄 GitHub Activity Graph
+## 📫 Let's Connect
 
-[![Faheem's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## ⚡ Fun Fact  
-> **"I don’t fear failure — I fear being the same tomorrow."**  
-> Or as I always say:  
-> *“The past is just a bunch of memories, and the future is projecting the memories into the future.”*
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faheemrahman.dev@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/faheemrahmanm07)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rahmxxn__/)
 
 ---
 
-<!-- Footer badge -->
+## 💬 Personal Quote
+
+> "The past is just a bunch of memories, and the future is projecting the memories into the future."  
+> — *Faheem Rahman*
+
+---
+
+<!-- Snake Contribution Animation -->
 <p align="center">
-  <img src="https://github.com/your-github-username/your-github-username/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/your-github-username/your-github-username/raw/output/github-contribution-grid-snake.svg" alt="Contribution graph snake" />
 </p>
