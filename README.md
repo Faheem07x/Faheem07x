@@ -63,20 +63,25 @@ A **Python-based real-time face detection** attendance system with a GUI built u
 
 ## 📫 Let's Connect
 
-[![Gmail](<img width="48" height="48" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1"/>)](mailto:faheemrahmanr@gmail.com)  
-[![LinkedIn](<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>)](www.linkedin.com/in/faheemrahmanm07)  
-[![Instagram](<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" alt="instagram-logo"/>)](https://www.instagram.com/_rahmxxn__/)
-
----
-
-## 💬 Personal Quote
-
-> "The past is just a bunch of memories, and the future is projecting the memories into the future."  
-> — *Faheem Rahman*
-
----
-
-<!-- Snake Contribution Animation -->
-<p align="center">
-  <img src="https://github.com/your-github-username/your-github-username/raw/output/github-contribution-grid-snake.svg" alt="Contribution graph snake" />
+<p align="left">
+  <a href="mailto:faheemrahmanr@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" title="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/faheemrahmanm07">
+    <img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_rahmxxn__/">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" title="Instagram" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/faheemrahmanr">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" title="HackerRank" />
+  </a>
 </p>
+---
+
+## 🧠 Personal Quote
+
+> *“Only those who will risk going too far can possibly find out how far one can go.”*  
+> — *T.S. Eliot*
+
+---
