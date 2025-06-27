@@ -77,6 +77,7 @@ A **Python-based real-time face detection** attendance system with a GUI built u
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" title="HackerRank" />
   </a>
 </p>
+
 ---
 
 ## 🧠 Personal Quote
