@@ -61,18 +61,11 @@ A **Python-based real-time face detection** attendance system with a GUI built u
 
 ---
 
-## 📊 GitHub Stats
-
-![Faheem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faheemrahman.dev@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/faheemrahmanm07)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rahmxxn__/)
+[![Gmail](<img width="48" height="48" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1"/>)](mailto:faheemrahmanr@gmail.com)  
+[![LinkedIn](<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>)](www.linkedin.com/in/faheemrahmanm07)  
+[![Instagram](<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" alt="instagram-logo"/>)](https://www.instagram.com/_rahmxxn__/)
 
 ---
 
