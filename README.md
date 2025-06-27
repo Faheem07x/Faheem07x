@@ -1,42 +1,98 @@
-## 👋 Hey there, I’m Faheem Rahman
+<!-- Banner GIF -->
+<img src="https://pin.it/3R2HgtTj0" width="100%" alt="Banner"/>
 
-### 🎓 Engineering Student | 💻 Tech Explorer | 🛠️ Project Builder
+# Hi 👋🏻, I'm Faheem Rahman
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-- 🔭 Currently working on: **Real-Time AI Detection Projects** and **Web Apps**
-- 🌱 Learning: **JavaScript**, **OpenCV**, **Frontend Dev**, **Machine Learning**
-- 💡 Passionate about building useful tech, teaching juniors, and exploring design
-- 🛠️ Hackathon Experience: **Smart India Hackathon, Hack the Horizon @ VIT**
-- 🎤 Presented topics like **Overthinking**, **Anti-Sleep Glasses**, **AI Safety Bots**
-- 🎯 Goal: Combine creativity + technology to solve real-world problems
+🎓 A passionate Computer Science & Engineering student at [Your College Name]  
+🌐 Focused on AI, Web Development, and making tech more human-friendly.  
+🔬 Always learning, building, failing fast, and trying again.  
 
 ---
 
-### 🌐 Connect With Me
+### 📈 Profile Overview  
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)  
+| 🔥 Stats             | 🧩 Roles               | 🚀 Projects              |  
+|----------------------|------------------------|--------------------------|  
+| `📚 10+` repos       | `👨‍💻 Developer`        | `💡 AI Detection Bot`    |  
+| `⭐ GitHub Starred`   | `📢 Presenter`          | `📈 Workforce Tracker`   |  
+| `🎯 Hackathon Finalist`| `🛠 Builder`            | `🔬 Anti-Sleep Glasses`  |
+
+---
+
+## 🚀 What I'm Working On
+
+- 👨‍🏭 **Nokia Workforce Management System**  
+  → Shift scheduling + attendance + AI chatbot  
+  → [GitHub Repo](https://github.com/your-github-username/nokia-workforce)
+
+- 🛰️ **Pothole Detection & Rover Filling System**  
+  → With GPS + microcontroller (ESP82)  
+  → [GitHub Repo](https://github.com/your-github-username/pothole-rover)
 
 ---
 
-### 💻 Tech Stack
+## 🌱 Currently Learning
 
-**Languages**  
-<img src="https://img.icons8.com/color/48/python.png" width="40"/> 
-<img src="https://img.icons8.com/color/48/c-programming.png" width="40"/>
-<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="40"/> 
-<img src="https://img.icons8.com/color/48/javascript.png" width="40"/>
-<img src="https://img.icons8.com/color/48/html-5--v1.png" width="40"/> 
-<img src="https://img.icons8.com/color/48/css3.png" width="40"/>
-
-**Tools & Frameworks**  
-<img src="https://img.icons8.com/color/48/react-native.png" width="40"/> 
-<img src="https://img.icons8.com/color/48/bootstrap.png" width="40"/> 
-<img src="https://img.icons8.com/color/48/figma--v1.png" width="40"/> 
-<img src="https://img.icons8.com/color/48/adobe-xd.png" width="40"/> 
-<img src="https://img.icons8.com/fluency/48/github.png" width="40"/> 
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="40"/>
+- 💻 **React, Tailwind CSS, JavaScript**
+- 🤖 **YOLOv3, OpenCV, Real-time object tracking**
+- 🎨 **Figma, UI/UX Design**
 
 ---
+
+## 💬 Ask Me About
+
+- Frontend Development (HTML, CSS, JS, React)
+- AI + Computer Vision (YOLO, OpenCV)
+- Microcontrollers & embedded projects (ESP32, Arduino)
+- Organizing college-level tech workshops
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faheem-link/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faheemhandle/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faheemrahman.dev@gmail.com)
+
+---
+
+## 🛠️ Languages & Tools
+
+<img src="https://img.icons8.com/color/48/html-5--v1.png"/> 
+<img src="https://img.icons8.com/color/48/css3.png"/> 
+<img src="https://img.icons8.com/color/48/javascript--v1.png"/> 
+<img src="https://img.icons8.com/color/48/react-native.png"/> 
+<img src="https://img.icons8.com/color/48/python--v1.png"/> 
+<img src="https://img.icons8.com/color/48/c-programming.png"/> 
+<img src="https://img.icons8.com/color/48/figma--v1.png"/> 
+<img src="https://img.icons8.com/color/48/adobe-xd--v1.png"/> 
+<img src="https://img.icons8.com/color/48/firebase.png"/> 
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+
+---
+
+## 📊 GitHub Stats
+
+![Faheem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+
+---
+
+## 🔄 GitHub Activity Graph
+
+[![Faheem's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## ⚡ Fun Fact  
+> **"I don’t fear failure — I fear being the same tomorrow."**  
+> Or as I always say:  
+> *“The past is just a bunch of memories, and the future is projecting the memories into the future.”*
+
+---
+
+<!-- Footer badge -->
+<p align="center">
+  <img src="https://github.com/your-github-username/your-github-username/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
