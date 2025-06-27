@@ -1,5 +1,5 @@
 <!-- Banner GIF -->
-<img src="https://pin.it/3R2HgtTj0" width="100%" alt="Banner"/>
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" alt="Banner"/>
 
 # Hi 👋🏻, I'm Faheem Rahman
 
